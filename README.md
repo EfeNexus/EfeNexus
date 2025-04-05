@@ -1,6 +1,6 @@
 # Welcome to EfeNexus Pi! 🌟
 
-We’re so pleased to share the journey of **@@EfeNexus Pi](https://twitter.com/EfeNexus)  **, a project dedicated to bringing meaningful tech solutions to life. Starting April 13, 2025, here’s our roadmap to success by April 28, 2028. Join us on this exciting adventure!
+We’re so pleased to share the journey of **@EfeNexus Pi**, a project dedicated to bringing meaningful tech solutions to life. Starting April 13, 2025, here’s our roadmap to success by April 28, 2028. Join us on this exciting adventure!
 
 ---
 
@@ -47,6 +47,3 @@ We’re honored to have you here! Follow our progress, share your thoughts, or c
 - **Hashtags**: #EfeNexusPi #PiGoals2028
 
 Thank you for being part of our story! 💖
-
-[@efeStrategy](https://x.com/efeStrategy). Unleash the power of strategy and tech in one tiny board. Whether you're automating, experimenting, or innovating, this is your nexus of possibilities.
-
