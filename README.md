@@ -47,3 +47,28 @@ We’re honored to have you here! Follow our progress, share your thoughts, or c
 - **Hashtags**: #EfeNexusPi #PiGoals2028
 
 Thank you for being part of our story! 💖
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EfeNexusPi</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>EfeNexusPi</h1>
+        <p>A simple GitHub Pages site</p>
+    </header>
+    <main>
+        <section>
+            <h2>Welcome</h2>
+            <p>This is the home of EfeNexusPi, built for exploration and innovation.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 EfeNexusPi. All rights reserved.</p>
+    </footer>
+</body>
+</html>
