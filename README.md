@@ -46,7 +46,7 @@ We’re honored to have you here! Follow our progress, share your thoughts, or c
 - **Connect**: Find us on [X @EfeNexus Pi](https://twitter.com/EfeNexus)  
 - **Hashtags**: #EfeNexusPi #PiGoals2028
 
-Thank you for being part of our story! 💖
+Thank you for being part of our story 💜
 
 <!DOCTYPE html>
 <html lang="en">
