@@ -38,7 +38,7 @@ If you discover a security vulnerability in Efe Nexus Pi, please report it to us
 
 ## Scope
 
-This policy applies to the Efe Nexus Pi repository hosted at [github.com/username/efe-nexus-pi](https://github.com/username/efe-nexus-pi). Third-party dependencies are outside our scope; please report issues to their respective maintainers.
+This policy applies to the Efe Nexus Pi repository hosted at [github.com/EfeNexus/Efe-Nexus-Pi](https://github.com/username/efe-nexus-pi). Third-party dependencies are outside our scope; please report issues to their respective maintainers.
 
 ## Responsible Disclosure
 
@@ -53,7 +53,7 @@ We appreciate security researchers’ efforts and may acknowledge your contribut
 
 ## Questions?
 
-For questions about this policy, contact us at [security@efenexuspi.example.com](mailto:security@efenexuspi.example.com).
+For questions about this policy, contact us at [efestrategypi@gmail.com](efestrategypi@gmail.com).
 
 Thank you for helping keep Efe Nexus Pi secure!
 
