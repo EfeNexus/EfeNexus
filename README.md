@@ -29,8 +29,9 @@
 ---
 
 **Join us to ignite the future of finance, fashion, and global trade!** Follow us:  
-- OTC Exchange: [@efePiSwap](https://github.com/efePiSwap)  
-- Financial Services: [@efeStrategy](https://github.com/efeStrategy)  
-- Wallet: [@EfePiVault](https://github.com/EfePiVault)  
-- Fashion: [@EfeLuxe](https://github.com/EfeLuxe)  
+- OTC Exchange: [@efePiSwap](https://x.com/efePiSwap)  
+- Financial Services: [@efeStrategy](https://x.com/efeStrategy)  
+- Wallet: [@EfePiVault](https://x.com/EfePiVault)  
+- Fashion: [@EfeLuxe](x://github.com/EfeLuxe)
+- Real Estate: [@EfeProperties](https://x.com/EfeProperties)  
 🚀 Let’s build the future together!
