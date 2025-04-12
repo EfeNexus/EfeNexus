@@ -1,6 +1,6 @@
 # Efe Nexus Pi 🌍
 
-**-: [@EfeNexus](https://x.com/EfeNexus) Pi, Powered by Pi Network, Sparks a Global Financial Revolution!** We’re redefining decentralized finance with **BlissP2Pi Xchange @efePiSwap**, a seamless OTC exchange for fearless trading, and **efeStrategy Pi @efeStrategy**, delivering elite financial services to conquer markets. Secure your assets with **@EfePiVault**, our trusted wallet solution. Beyond finance, we dazzle with **@EfeLuxe**, a sustainable fashion powerhouse, while driving Web3 innovation through cutting-edge dApps and blockchain solutions. We also electrify global trade and real estate, connecting the world with unstoppable energy and trust!
+ [@EfeNexus](https://x.com/EfeNexus) Pi, Powered by Pi Network, Sparks a Global Financial Revolution! We’re redefining decentralized finance with **BlissP2Pi 𝕏change 💱**, a seamless OTC exchange for fearless trading, and **efeStrategyPi**, delivering elite financial services to conquer markets. Secure your assets with **EfePiVault**, our trusted wallet solution. Beyond finance, we dazzle with **EfeLuxe**, a sustainable fashion powerhouse, while driving Web3 innovation through cutting-edge dApps and blockchain solutions. We also electrify global trade and real estate, connecting the world with unstoppable energy and trust!
 
 ## 🚀 Our Roadmap
 
