@@ -1,6 +1,6 @@
 # Efe Nexus Pi 🌍
 
-**Efe Nexus Pi, Powered by Pi Network, Sparks a Global Financial Revolution!** We’re redefining decentralized finance with **BlissP2Pi Xchange @efePiSwap**, a seamless OTC exchange for fearless trading, and **efeStrategy Pi @efeStrategy**, delivering elite financial services to conquer markets. Secure your assets with **@EfePiVault**, our trusted wallet solution. Beyond finance, we dazzle with **@EfeLuxe**, a sustainable fashion powerhouse, while driving Web3 innovation through cutting-edge dApps and blockchain solutions. We also electrify global trade and real estate, connecting the world with unstoppable energy and trust!
+**-: [@EfeNexus](https://x.com/EfeNexus) Pi, Powered by Pi Network, Sparks a Global Financial Revolution!** We’re redefining decentralized finance with **BlissP2Pi Xchange @efePiSwap**, a seamless OTC exchange for fearless trading, and **efeStrategy Pi @efeStrategy**, delivering elite financial services to conquer markets. Secure your assets with **@EfePiVault**, our trusted wallet solution. Beyond finance, we dazzle with **@EfeLuxe**, a sustainable fashion powerhouse, while driving Web3 innovation through cutting-edge dApps and blockchain solutions. We also electrify global trade and real estate, connecting the world with unstoppable energy and trust!
 
 ## 🚀 Our Roadmap
 
@@ -32,6 +32,6 @@
 - OTC Exchange: [@efePiSwap](https://x.com/efePiSwap)  
 - Financial Services: [@efeStrategy](https://x.com/efeStrategy)  
 - Wallet: [@EfePiVault](https://x.com/EfePiVault)  
-- Fashion: [@EfeLuxe](x://github.com/EfeLuxe)
+- Fashion: [@EfeLuxe](https://x.com/EfeLuxe)
 - Real Estate: [@EfeProperties](https://x.com/EfeProperties)  
 🚀 Let’s build the future together!
