@@ -20,7 +20,7 @@ Please ensure you are using a supported version before reporting issues.
 If you discover a security vulnerability in Efe Nexus Pi, please report it to us privately to allow time for a fix before public disclosure. Follow these steps:
 
 1. **Do Not Open Public Issues**: Avoid reporting vulnerabilities via public GitHub issues, discussions, or pull requests, as this could allow exploitation before a fix is ready.
-2. **Contact Us**: Email us at [security@efenexuspi.example.com](mailto:security@efenexuspi.example.com) with the following details:
+2. **Contact Us**: Email us at [efenexuspi@gmail.com](efenexuspi@gmail.com) with the following details:
    - **Type of Issue**: E.g., buffer overflow, XSS, privilege escalation.
    - **Location**: The affected component or source file (e.g., tag, branch, or commit).
    - **Description**: A detailed explanation of the vulnerability.
