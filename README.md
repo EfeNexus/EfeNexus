@@ -31,7 +31,8 @@
 **Join us to ignite the future of finance, fashion, and global trade!** Follow us:  
 - OTC Exchange: [@efePiSwap](https://x.com/efePiSwap)  
 - Financial Services: [@efeStrategy](https://x.com/efeStrategy)  
-- Wallet: [@EfePiVault](https://x.com/EfePiVault) 📱Join Efe Pi Mining Crew: [@EfePiCrew](https://x.com/EfePiCrew) ⛏️
+- Wallet: [@EfePiVault](https://x.com/EfePiVault)
+- 📱Join Efe Pi Mining Crew: [@EfePiCrew](https://x.com/EfePiCrew) ⛏️
 - Fashion: [@EfeLuxe](https://x.com/EfeLuxe)
 - Real Estate: [@EfeProperties](https://x.com/EfeProperties)  
 🚀 Let’s build the future together!
